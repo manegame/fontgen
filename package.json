@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-fontgen": "^0.2.5",
+    "gulp-print": "^2.0.1",
+    "gulp-rename": "^1.2.2"
+  }
+}
